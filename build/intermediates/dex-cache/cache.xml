@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad8b9e1d7d18e9e3e2a1f13fa3cc1ada7db64c0e">
+        <dex dex="/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68aca0bc0f23999d51fe7170399a318e1cd33e9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bc00b3aee377b38c3f28f4ed6eec66bc161b106">
+        <dex dex="/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0342d1bb623c9b2b4fe2705c9f17616543328b5/classes.dex" />
+    </item>
+
+</items>
